@@ -28,7 +28,7 @@ export const Hero = () => {
             </motion.h1>
 
             <p className="text-3xl text-[#2E7D32] tracking-tight mt-6">
-              "Stay informed and take control of your environment with EcoVisit—monitor air quality, compare pollution levels, and predict future trends for a healthier tomorrow."
+              Stay informed and take control of your environment with EcoVisit—monitor air quality, compare pollution levels, and predict future trends for a healthier tomorrow.
             </p>
             <div className="flex gap-1 items-center mt-[30px]">
               <button className="btn btn-primary"> Get Started</button>
